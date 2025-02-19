@@ -1,1 +1,11 @@
-
+{
+    "description": "My personal site",
+    "repo": "https://github.com/matthijs12310/matthijs12310.github.io",
+    "owner": {
+        "username": "matthijs12310",
+        "email": "[email protected]"
+    },
+    "record": {
+        "CNAME": "matthijs12310.github.io"
+    }
+}
